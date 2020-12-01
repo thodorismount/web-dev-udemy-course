@@ -1,0 +1,64 @@
+/*Selector{
+	Property: value;
+}*/
+*{
+	text-align: right;
+}
+
+body{
+	background-image: url(https://images.unsplash.com/photo-1559751989-af68bd86bdc6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80);
+	background-size: cover;
+}
+
+h2{
+	color: red;
+}
+
+p{
+	color: #AA4139;
+	text-align: center;
+	border:5px solid rgba(255, 170, 170, 0.5);
+	cursor: pointer;
+}
+
+p{
+	line-height: 5px;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 100%;
+	font-family: 'Poiret One', cursive;
+}
+
+p{
+	color: green;
+}
+
+img{
+	float: right;
+}
+
+footer{
+	clear: both;
+	text-align: center;
+}
+
+li{
+	list-style: none;
+	display: inline-block;
+}
+
+.webtext{
+	border:5px dashed green;
+}
+
+.active{
+	color: red;
+}
+
+#div1{
+	background: rgb(0,0,255,0.2);
+}
+
+#div2{
+	background: rgb(255,0,0,0.2);
+}
